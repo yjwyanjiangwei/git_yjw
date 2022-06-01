@@ -5,4 +5,5 @@ third update
 fourth update
 fifth update
 master add1
+ni hao 
 连接到远程库的第一次操作
